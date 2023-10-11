@@ -10,7 +10,8 @@ This repository contains the following:
 ## Tools & Skills
 Excel
 * Data quality checks
-* Descriptive and exploratory analyses
+* Grouping and summarizing data
+* Descriptive analysis
 * PivotTables
   
 Data Storytelling
